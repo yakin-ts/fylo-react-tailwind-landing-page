@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://fylo-react-tailwind-landing-page.vercel.app/)
 
 ## My process
 
@@ -45,17 +44,15 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/yourrepository.git
-
+   git clone https://github.com/yakin-ts/fylo-react-tailwind-landing-page.git
    ```
 2. Install the dependencies:
   ```sh
-    npm run dev
+    npm install
   ```
 3. Start the development server:
 ```sh
   npm run dev
-
 ```
 
 
