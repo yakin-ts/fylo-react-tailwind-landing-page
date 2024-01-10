@@ -1,7 +1,7 @@
 import React from "react";
 import { features } from "../constants/content";
 
-const Features = () => {
+const Features: React.FC = () => {
     return (
         <div className='flex flex-col w-full bg-primary-main'>
             <div className="flex flex-col bg-primary-main pt-5 lg:grid lg:grid-cols-2 lg:w-2/3 lg:mx-auto">
