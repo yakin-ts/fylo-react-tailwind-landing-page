@@ -11,7 +11,7 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
--[Getting Started](#getting-started)
+- [Getting Started](#getting-started)
 - [Author](#author)
 
 
