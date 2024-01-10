@@ -1,30 +1,67 @@
-# React + TypeScript + Vite
+# Fylo dark theme landing page solution -  Frontend Mentor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a responsive web application built with React and TypeScript. It showcases a variety of skills and best practices in modern web development.
 
-Currently, two official plugins are available:
+This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of contents
 
-## Expanding the ESLint configuration
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+-[Getting Started](#getting-started)
+- [Author](#author)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
+## Overview
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+**React**: The project is built using React.
+- **TypeScript**: TypeScript, a statically typed superset of JavaScript.
+- **Tailwind CSS**: The project uses Tailwind CSS for styling.
+- **Responsive Design**: The application is fully responsive and provides an optimal user experience on mobile and  desktop devices.
+- **Semantic HTML**: Semantic HTML elements are used to reinforce the meaning of the content in web browsers and assistive technologies.
+
+## Getting Started
+
+To get a local copy up and running, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/yourrepository.git
+
+   ```
+2. Install the dependencies:
+  ```sh
+    npm run dev
+  ```
+3. Start the development server:
+```sh
+  npm run dev
+
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+## Author
+
+- LinkedIn - [Yakin Teshome](https://www.linkedin.com/in/yakin-teshome/)
+- Frontend Mentor - [@yakin-ts](https://www.frontendmentor.io/profile/yakin-ts)
+
+

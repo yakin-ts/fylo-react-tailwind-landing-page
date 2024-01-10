@@ -9,9 +9,9 @@ export default {
       colors: {
         primary: {
           'intro': 'hsl(217, 28%, 15%)',
-          'main': 'hsl(217, 28%, 15%)',
-          'footer': 'hsl(216, 53%, 9%)', 
-          'testimoial': 'hsl(219, 30%, 18%)', 
+          'main': 'hsl(218, 28%, 13%)',
+          'footer': 'hsl(216, 53%, 9%)',
+          'testimoial': 'hsl(219, 30%, 18%)',
         },
         accent: {
           'cyan': 'hsl(176, 68%, 64%)',
@@ -25,6 +25,14 @@ export default {
       fontFamily: {
         'raleway': ['Raleway', 'sans-serif'],
         'open-sans': ['Open Sans', 'sans-serif'],
+      },
+      backgroundImage: () => ({
+        'desktop': "url('../src/assets/images/bg-curvy-desktop.svg')",
+        'mobile': "url('../src/assets/images/bg-curvy-mobile.svg')",
+        'quote': "url('./images/pattern-quotes.svg')",
+      }),
+      backgroundRepeat: {
+        'no-repeat': 'no-repeat',
       },
     },
   },
